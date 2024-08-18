@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="calculate_GCD.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="329" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="Power_of_number.cpp" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="157" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="neon_numbers.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="118" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="find_GCC.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="calculator.cpp" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="85" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="armstrong.cpp" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="693" topLine="37" />
+		</Cursor>
+	</File>
+	<File name="fibonacci_even.cpp" open="1" top="1" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="124" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="prime_ornot.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="165" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="pAlindrome_or_not.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="64" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="join_p.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="454" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="amstrong_number.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="81" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="503" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="factorsof_naturalNo.cpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="81" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="fibo.cpp" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="429" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="prime_between.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="40" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="find_lcm.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="168" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

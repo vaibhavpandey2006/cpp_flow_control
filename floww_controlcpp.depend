@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1723914923 source:c:\users\18pan\onedrive\desktop\cpp geeks\floww_controlcpp\main.cpp
+	<iostream>
+	"join_p.h"
+
+1723914923 c:\users\18pan\onedrive\desktop\cpp geeks\floww_controlcpp\join_p.h
+
+1723716202 source:c:\users\18pan\onedrive\desktop\cpp geeks\floww_controlcpp\prime_multiplication.cpp
+	<iostream>
+	"join_p.h"
+
+1723718544 source:c:\users\18pan\onedrive\desktop\cpp geeks\floww_controlcpp\sum_of_n.cpp
+	<iostream>
+	"join_p.h"
+
+1723718434 source:c:\users\18pan\onedrive\desktop\cpp geeks\floww_controlcpp\factorial.cpp
+	<iostream>
+	"join_p.h"
+
+1723719442 source:c:\users\18pan\onedrive\desktop\cpp geeks\floww_controlcpp\reverse_number.cpp
+	<iostream>
+	"join_p.h"
+
+1723801423 source:c:\users\18pan\onedrive\desktop\cpp geeks\floww_controlcpp\prime_ornot.cpp
+	<iostream>
+	"join_p.h"
+
+1723726560 source:c:\users\18pan\onedrive\desktop\cpp geeks\floww_controlcpp\find_gcc.cpp
+
+1723872240 source:c:\users\18pan\onedrive\desktop\cpp geeks\floww_controlcpp\calculate_gcd.cpp
+	<iostream>
+	"join_p.h"
+
+1723793694 source:c:\users\18pan\onedrive\desktop\cpp geeks\floww_controlcpp\find_lcm.cpp
+	<iostream>
+	"join_p.h"
+
+1723795020 source:c:\users\18pan\onedrive\desktop\cpp geeks\floww_controlcpp\palindrome_or_not.cpp
+	<iostream>
+	"join_p.h"
+
+1723878206 source:c:\users\18pan\onedrive\desktop\cpp geeks\floww_controlcpp\prime_between.cpp
+	<iostream>
+	"join_p.h"
+
+1723912520 source:c:\users\18pan\onedrive\desktop\cpp geeks\floww_controlcpp\neon_numbers.cpp
+	<iostream>
+	"join_p.h"
+	<cmath>
+
+1723895497 source:c:\users\18pan\onedrive\desktop\cpp geeks\floww_controlcpp\amstrong_number.cpp
+	<iostream>
+	"join_p.h"
+	<cmath>
+
+1723896869 source:c:\users\18pan\onedrive\desktop\cpp geeks\floww_controlcpp\factorsof_naturalno.cpp
+	<iostream>
+	"join_p.h"
+	<cmath>
+
+1723899442 source:c:\users\18pan\onedrive\desktop\cpp geeks\floww_controlcpp\fibo.cpp
+	<iostream >
+	"join_p.h"
+	<cmath>
+
+1723904820 source:c:\users\18pan\onedrive\desktop\cpp geeks\floww_controlcpp\calculator.cpp
+	<iostream>
+	"join_p.h"
+	<cmath>
+
+1723912579 source:c:\users\18pan\onedrive\desktop\cpp geeks\floww_controlcpp\armstrong.cpp
+	<iostream>
+	"join_p.h"
+	<cmath>
+
+1723906867 source:c:\users\18pan\onedrive\desktop\cpp geeks\floww_controlcpp\power_of_number.cpp
+	<iostream>
+	"join_p.h"
+	<cmath>
+
+1723915717 source:c:\users\18pan\onedrive\desktop\cpp geeks\floww_controlcpp\fibonacci_even.cpp
+	<iostream>
+	"join_p.h"
+	<cmath>
+
